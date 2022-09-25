@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/cfm-web/static/css/main.e47611c2.css",
+    "main.js": "/cfm-web/static/js/main.8da6345e.js",
+    "static/js/787.cc00d1bd.chunk.js": "/cfm-web/static/js/787.cc00d1bd.chunk.js",
+    "static/media/crypto.jpg": "/cfm-web/static/media/crypto.9b19946e1aad4f9bacb5.jpg",
+    "static/media/puzzled_programmer.jpeg": "/cfm-web/static/media/puzzled_programmer.417f2285fa7f47f22cae.jpeg",
+    "static/media/circuit_brain.jpg": "/cfm-web/static/media/circuit_brain.9dda2c721c02a7c2c36c.jpg",
+    "static/media/gql_image.png": "/cfm-web/static/media/gql_image.2cd940fa529ea912112e.png",
+    "static/media/anyone_can_code.jpg": "/cfm-web/static/media/anyone_can_code.f063ec856c61ed1ca187.jpg",
+    "static/media/home_budget.jpg": "/cfm-web/static/media/home_budget.db78fe80063b9e04be92.jpg",
+    "static/media/money.jpg": "/cfm-web/static/media/money.88234e16b8e0256bd44c.jpg",
+    "static/media/cloud_storage.jpg": "/cfm-web/static/media/cloud_storage.d486a7f5f2e75726a0e4.jpg",
+    "static/media/spending_money.jpg": "/cfm-web/static/media/spending_money.1bdbf0ab48e073923151.jpg",
+    "static/media/neuron.jpg": "/cfm-web/static/media/neuron.6b0348ff6951179b2219.jpg",
+    "static/media/programming_languages.jpeg": "/cfm-web/static/media/programming_languages.90f0be22220f4ced0831.jpeg",
+    "static/media/apollo_graphql.png": "/cfm-web/static/media/apollo_graphql.de753a33bada6d3e0a00.png",
+    "static/media/ionicons.woff": "/cfm-web/static/media/ionicons.bf69b013f69d1f0c2f6c.woff",
+    "static/media/graphql.png": "/cfm-web/static/media/graphql.5abef1eb2e6d90f99d95.png",
+    "static/media/ionicons.woff2": "/cfm-web/static/media/ionicons.175f391f238cd7deffa8.woff2",
+    "index.html": "/cfm-web/index.html",
+    "main.e47611c2.css.map": "/cfm-web/static/css/main.e47611c2.css.map",
+    "main.8da6345e.js.map": "/cfm-web/static/js/main.8da6345e.js.map",
+    "787.cc00d1bd.chunk.js.map": "/cfm-web/static/js/787.cc00d1bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e47611c2.css",
+    "static/js/main.8da6345e.js"
+  ]
+}
